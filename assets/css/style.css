@@ -371,6 +371,12 @@ button[type="submit"] {
     background-color: #e84610;
 }
 
+/* -----------------------------------GitHub */
+
+#loader {
+    text-align: center;
+}
+
 /* -----------------------------------Media Queries */
 
 @media(min-width: 992px) {
